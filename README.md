@@ -1,7 +1,7 @@
-<img align="right" height="590em"
-src="https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"/>
-<h1 align="left">Hi! I'm Matheus Trindade</h1>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=MatheusLTrindade&color=yellow" alt="Profile views"/></p>
+<img align="right" height="590em" src="https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"/>
+<h1 align="left">Hi! I'm Matheus Trindade 
+  <img src="https://komarev.com/ghpvc/?username=MatheusLTrindade&color=76B900&style=for-the-badge" align="right" alt="Profile views"/>
+</h1>
 
 - 🔥 Deployment consultant
 
