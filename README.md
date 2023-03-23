@@ -5,7 +5,9 @@ src="https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=com
 
 - 🔥 Deployment consultant
 
-- 🔭 I am currently working on [Linx Inforejo Franchise](https://www.linx.com.br/)
+- 🔭 I am currently working on [Linx](https://www.linx.com.br/)
+
+- 🎓 Systems Analysis and Development student on [SENAC](https://www.sp.senac.br/)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
 
@@ -49,9 +51,9 @@ src="https://images.pexels.com/photos/2047905/pexels-photo-2047905.jpeg?auto=com
 <br><br>
 
 ## ⚙️ GitHub Analytics
-  <p align="center">
-    <img height="230em" src="https://github-readme-stats.vercel.app/api/?username=MatheusLTrindade&show_icons=true&bg_color=30,6ff7e8,e761bd&title_color=fff&text_color=222&icon_color=999" alt="MatheusLTrindade's stats"/>
-    <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=compact&bg_color=30,e761bd,6ff7e8&title_color=fff&text_color=222" alt="MatheusLTrindade's most languages"/>
+  <p align="center" width="100%">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/?username=MatheusLTrindade&show_icons=true&bg_color=30,6ff7e8,e761bd&title_color=fff&text_color=222&icon_color=999" alt="MatheusLTrindade's stats"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=compact&bg_color=30,e761bd,6ff7e8&title_color=fff&text_color=222" alt="MatheusLTrindade's most languages"/>
   </p>
 
 ## 🧔‍♂️Social Links
