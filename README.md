@@ -51,9 +51,9 @@
 <br><br>
 
 ## ⚙️ GitHub Analytics
-  <p align="center" width="100%">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/?username=MatheusLTrindade&show_icons=true&bg_color=30,6ff7e8,e761bd&title_color=fff&text_color=222&icon_color=999" alt="MatheusLTrindade's stats"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=compact&bg_color=30,e761bd,6ff7e8&title_color=fff&text_color=222" alt="MatheusLTrindade's most languages"/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/?username=MatheusLTrindade&show_icons=true&bg_color=0D1117&title_color=fff&text_color=fff&icon_color=31E1F7&ring_color=25D366&hide_border=true&count_private=true" alt="MatheusLTrindade's stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=compact&bg_color=0D1117&title_color=fff&text_color=fff&hide_border=true&langs_count=10" alt="MatheusLTrindade's most languages"/>
   </p>
 
 ## 🧔‍♂️Social Links
