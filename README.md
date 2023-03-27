@@ -3,6 +3,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MatheusLTrindade&color=76B900&style=for-the-badge" alt="Profile views"/>
 </p>
+
 - 🔥 Deployment consultant
 
 - 🔭 I am currently working on [Linx](https://www.linx.com.br/)
@@ -41,7 +42,7 @@
   ![SequelizeJS](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![NextJS](https://img.shields.io/badge/Next-A6A9AA?style=for-the-badge&logo=next.js&logoColor=white)
+  ![NextJS](https://img.shields.io/badge/Next-222?style=for-the-badge&logo=next.js&logoColor=white)
   ![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
