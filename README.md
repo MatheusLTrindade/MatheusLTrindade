@@ -62,6 +62,15 @@
   </p>
 <!-- ![WakatimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade) -->
 
+## ⭐ Favorite repositories
+<div align="center">
+  
+  [![PI1 Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A36&title_color=61DDFD&border_color=BD93F9&text_color=fff&repo=ProjetoIntegrador1)](https://github.com/MatheusLTrindade/ProjetoIntegrador1)
+  [![PI2 Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A36&title_color=61DDFD&border_color=BD93F9&text_color=fff&repo=ProjetoIntegrador2)](https://github.com/MatheusLTrindade/ProjetoIntegrador2)
+  [![PI3 Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A36&title_color=61DDFD&border_color=BD93F9&text_color=fff&repo=ProjetoIntegrador3)](https://github.com/MatheusLTrindade/ProjetoIntegrador3)
+
+</div>
+
 ## 🧔‍♂️Social Links
   [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusLTrindade)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-trindade-883025247/)
