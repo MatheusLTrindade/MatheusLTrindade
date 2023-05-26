@@ -32,7 +32,6 @@
   ![MySQL](https://img.shields.io/badge/MySQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white)
   ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![PowerSheel](https://img.shields.io/badge/powershell_7-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 
 ## 🌱 I’m currently learning
