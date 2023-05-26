@@ -56,11 +56,15 @@
 <br><br>
 
 ## ⚙️ GitHub Analytics
-  <p align="center">
-    <img src="https://github-readme-stats-sigma-seven.vercel.app/api/?username=MatheusLTrindade&show_icons=true&bg_color=282A36&title_color=fff&text_color=fff&icon_color=31E1F7&ring_color=25D366&hide_border=true&count_private=true" alt="MatheusLTrindade's stats"/>
-    <img src="https://github-readme-stats-sigma-seven.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=compact&bg_color=282A36&title_color=fff&text_color=fff&hide_border=true&langs_count=10" alt="MatheusLTrindade's most languages"/>
-  </p>
-<!-- ![WakatimeStats](https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade) -->
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/?username=MatheusLTrindade&include_all_commits=true&show_icons=true&bg_color=282A36&title_color=fff&text_color=fff&icon_color=31E1F7&hide_border=true&count_private=true&ring_color=25D366&card_width=500" alt="MatheusLTrindade's stats"/>
+  <img align="right" height="445px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical&bg_color=282A36&title_color=fff&text_color=fff&hide_border=true" alt="MatheusLTrindade's most languages"/>
+  <img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact&bg_color=282A36&title_color=fff&text_color=fff&hide_border=true"/>
+
+</div>
+  
+<br><br>
 
 ## ⭐ Favorite repositories
 <div align="center">
