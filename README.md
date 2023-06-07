@@ -59,7 +59,7 @@
 ## ⚙️ GitHub Analytics
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/?username=MatheusLTrindade&show_icons=true&bg_color=282A36&title_color=fff&text_color=fff&icon_color=31E1F7&hide_border=true&ring_color=25D366&card_width=470&count_private=true" alt="MatheusLTrindade's stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=MatheusLTrindade&show_icons=true&bg_color=282A36&title_color=fff&text_color=ffff&icon_color=31E1F7&hide_border=true&ring_color=25D366&card_width=470&include_all_commits=true" alt="MatheusLTrindade's stats"/>
   <img align="right" height="428px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical&bg_color=282A36&title_color=fff&text_color=fff&hide_border=true" alt="MatheusLTrindade's most languages"/>
   <img width="470px" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact&bg_color=282A36&title_color=fff&text_color=fff&hide_border=true"/>
 
