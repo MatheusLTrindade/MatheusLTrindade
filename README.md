@@ -85,4 +85,8 @@
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theteu_lt) 
 
 
-![Snake animation](https://github.com/MatheusLTrindade/MatheusLTrindade/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/output/github-contribution-grid-snake.svg">
+</picture>
