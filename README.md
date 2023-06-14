@@ -85,4 +85,4 @@
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theteu_lt) 
 
 
-![Snake animation](https://github.com/MatheusLTrindade/MatheusLTrindade/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MatheusLTrindade/MatheusLTrindade/blob/output/github-contribution-grid-snake-dark.svg)
