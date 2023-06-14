@@ -19,7 +19,7 @@ jobs:
     steps:
       # Snake Animation
       - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@v2
+        uses: Platane/snk@master
         with:
           github_user_name: MatheusLTrindade
           outputs: dist/github-contribution-grid-snake.svg
