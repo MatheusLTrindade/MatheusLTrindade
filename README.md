@@ -83,3 +83,5 @@
   [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511957103895)
   [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:matheus.lopes.trindade@hotmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theteu_lt) 
+
+ [![Snake animation](https://github.com/MatheusLTrindade/MatheusLTrindade/blob/output/github-contribution-grid-snake.svg)](https://github.com/MatheusLTrindade)
