@@ -58,8 +58,8 @@
 ## ⚙️ GitHub Analytics
 
 <div align="center" width="100%">
-  <img align="right" width="48%" height="200px" padding="0" src="https://streak-stats.demolab.com?user=MatheusLTrindade&hide_border=true&background=282A36&stroke=BD93F9&ring=25D366&fire=25D366&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=BD93F981"/>
-  <img align="left" width="48%" height="200px" padding="0" src="https://github-readme-stats.vercel.app/api?username=MatheusLTrindade&show_icons=true&bg_color=282A36&title_color=fff&text_color=ffff&icon_color=31E1F7&hide_border=true&ring_color=25D366&count_private=true"/>
+  <img align="right" width="48%" height="200px" style="padding: 0;" src="https://streak-stats.demolab.com?user=MatheusLTrindade&hide_border=true&background=282A36&stroke=BD93F9&ring=25D366&fire=25D366&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=BD93F981"/>
+  <img align="left" width="48%" height="200px" style="padding: 0;" src="https://github-readme-stats.vercel.app/api?username=MatheusLTrindade&show_icons=true&bg_color=282A36&title_color=fff&text_color=ffff&icon_color=31E1F7&hide_border=true&ring_color=25D366&count_private=true"/>
   <img align="right" width="48%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical&bg_color=282A36&title_color=fff&text_color=fff&hide_border=true" alt="MatheusLTrindade's most languages"/>
   <img align="left" width="48%" height="300px" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact&bg_color=282A36&title_color=fff&text_color=fff&hide_border=true"/>
   <img width="100%" height="1px" src=""/>
