@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="css/styles.css">
-
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MatheusLTrindade/fdb1acded15c40f708b58d3c43f4c5b1/raw/b86c96ca4960200f11519c697b23a918bbdfab2b/githubcard.svg"/>
 <h1 align="left">Hi! I'm Matheus Trindade</h1>
 <p align="left">
@@ -60,11 +58,10 @@
 ## ⚙️ GitHub Analytics
 
 <div align="center" width="100%">
-  <img align="right" width="47%" height="200px" src="https://streak-stats.demolab.com?user=MatheusLTrindade&hide_border=true&background=282A36&stroke=BD93F9&ring=25D366&fire=25D366&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=BD93F981" class="no-padding"/>
-  <img align="left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=MatheusLTrindade&show_icons=true&bg_color=282A36&title_color=fff&text_color=ffff&icon_color=31E1F7&hide_border=true&ring_color=25D366&count_private=true" class="no-padding"/>
-  <img align="right" width="47%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical&bg_color=282A36&title_color=fff&text_color=fff&hide_border=true" class="no-padding"/>
-  <img align="left" width="47%" height="300px" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact&bg_color=282A36&title_color=fff&text_color=fff&hide_border=true" class="no-padding"/>
-  <img width="100%" height="1px" src=""/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MatheusLTrindade&show_icons=true&bg_color=282A3600&title_color=fff&text_color=ffff&icon_color=31E1F7&hide_border=true&ring_color=25D366&count_private=true" class="no-padding"/>
+  <img width="49%" src="https://streak-stats.demolab.com?user=MatheusLTrindade&hide_border=true&background=282A3600&stroke=BD93F9&ring=25D366&fire=25D366&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=BD93F981" class="no-padding"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact&bg_color=282A3600&title_color=fff&text_color=fff&hide_border=true" class="no-padding"/>
+  <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical&bg_color=282A3600&title_color=fff&text_color=fff&hide_border=true" class="no-padding"/>
 </div>
   
 <br>
@@ -72,9 +69,9 @@
 ## ⭐ Favorite repositories
 <div align="center">
   
-  [![PI1 Card](https://github-readme-stats-sigma-seven.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A36&title_color=61DDFD&border_color=BD93F9&text_color=fff&icon_color=fff&repo=ProjetoIntegrador1)](https://github.com/MatheusLTrindade/ProjetoIntegrador1)
-  [![PI2 Card](https://github-readme-stats-sigma-seven.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A36&title_color=61DDFD&border_color=BD93F9&text_color=fff&icon_color=fff&repo=ProjetoIntegrador2)](https://github.com/MatheusLTrindade/ProjetoIntegrador2)
-  [![PI3 Card](https://github-readme-stats-sigma-seven.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A36&title_color=61DDFD&border_color=BD93F9&text_color=fff&icon_color=fff&repo=ProjetoIntegrador3)](https://github.com/MatheusLTrindade/ProjetoIntegrador3)
+  [![PI1 Card](https://github-readme-stats-sigma-seven.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=fff&icon_color=fff&repo=ProjetoIntegrador1)](https://github.com/MatheusLTrindade/ProjetoIntegrador1)
+  [![PI2 Card](https://github-readme-stats-sigma-seven.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=fff&icon_color=fff&repo=ProjetoIntegrador2)](https://github.com/MatheusLTrindade/ProjetoIntegrador2)
+  [![PI3 Card](https://github-readme-stats-sigma-seven.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=fff&icon_color=fff&repo=ProjetoIntegrador3)](https://github.com/MatheusLTrindade/ProjetoIntegrador3)
 
 </div>
 
