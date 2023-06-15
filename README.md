@@ -53,18 +53,19 @@
   ![VideoCard](https://img.shields.io/badge/NVIDIA-GeForce_MX250-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-11_Pro-0079D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<br><br>
+<br>
 
 ## ⚙️ GitHub Analytics
-<div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/?username=MatheusLTrindade&show_icons=true&bg_color=282A36&title_color=fff&text_color=ffff&icon_color=31E1F7&hide_border=true&ring_color=25D366&card_width=470&include_all_commits=true" alt="MatheusLTrindade's stats"/>
-  <img align="right" height="428px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical&bg_color=282A36&title_color=fff&text_color=fff&hide_border=true" alt="MatheusLTrindade's most languages"/>
-  <img width="470px" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact&bg_color=282A36&title_color=fff&text_color=fff&hide_border=true"/>
-
+<div width="100%" height="654px">
+  <img width="100%" height="200px" src="https://streak-stats.demolab.com?user=MatheusLTrindade&hide_border=true&background=282A36&stroke=BD93F9&ring=25D366&fire=25D366&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=BD93F981"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MatheusLTrindade&show_icons=true&bg_color=282A36&title_color=fff&text_color=ffff&icon_color=31E1F7&hide_border=true&ring_color=25D366&card_width=470&count_private=true"/>
+  <img align="right" width="340px" height="447px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical&bg_color=282A36&title_color=fff&text_color=fff&hide_border=true" alt="MatheusLTrindade's most languages"/>
+  <img align="left" width="470" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact&bg_color=282A36&title_color=fff&text_color=fff&hide_border=true"/>
+  <img width="100%" height="1px" src=""/>
 </div>
   
-<br><br>
+<br>
 
 ## ⭐ Favorite repositories
 <div align="center">
@@ -76,6 +77,8 @@
 </div>
 
 ## 🧔‍♂️Social Links
+<div align="center">
+
   [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusLTrindade)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusltrindade)
   [![WebSite](https://img.shields.io/badge/WebSite-00ADB5?style=for-the-badge&logo=safari&logoColor=white)](https://trindade.netlify.app/)
@@ -83,6 +86,7 @@
   [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:matheus.lopes.trindade@hotmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theteu_lt) 
 
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/output/github-contribution-grid-snake-dark.svg">
