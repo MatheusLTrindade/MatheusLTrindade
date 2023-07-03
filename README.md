@@ -89,6 +89,6 @@
 
 <div align="center">
   <picture>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/output/ocean.gif">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/output/ocean.svg">
   </picture>
 </div>
