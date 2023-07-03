@@ -58,8 +58,31 @@
 ## ⚙️ GitHub Analytics
 
 <div align="center" width="100%">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MatheusLTrindade&show_icons=true&bg_color=282A3600&title_color=fff&text_color=fff&icon_color=31E1F7&hide_border=true&ring_color=25D366&count_private=true" class="no-padding"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=MatheusLTrindade&hide_border=true&background=282A3600&stroke=BD93F9&ring=25D366&fire=25D366&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=BD93F981" class="no-padding"/>
+<!--   Analytics 1 -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=MatheusLTrindade&show_icons=true&bg_color=282A3600&title_color=fff&text_color=fff&icon_color=31E1F7&hide_border=true&ring_color=25D366&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=MatheusLTrindade&show_icons=true&bg_color=282A3600&title_color=000&text_color=000&icon_color=31E1F7&hide_border=true&ring_color=25D366&count_private=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MatheusLTrindade" />
+  </picture>
+<!--   Analytics 2 -->
+  <picture>
+    <source
+      srcset="https://streak-stats.demolab.com?user=MatheusLTrindade&hide_border=true&background=282A3600&stroke=BD93F9&ring=25D366&fire=25D366&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=BD93F981"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com?user=MatheusLTrindade&hide_border=true&background=282A3600&stroke=BD93F9&ring=25D366&fire=25D366&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=BD93F981"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img width="49%" src="https://streak-stats.demolab.com?user=MatheusLTrindade" />
+  </picture>
+<!--   Wakatime -->
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact&bg_color=282A3600&title_color=fff&text_color=fff&hide_border=true"
@@ -71,6 +94,7 @@
     />
     <img align="top" width="59%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact" />
   </picture>
+<!--   Donut -->
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical&bg_color=282A3600&title_color=fff&text_color=fff&hide_border=true"
@@ -80,12 +104,9 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical&bg_color=282A3600&title_color=000&text_color=000&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="top" width="39%" height="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical" />
+    <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical" />
   </picture>
 </div>
-
-
-
   
 <br>
 
