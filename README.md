@@ -63,6 +63,19 @@
   <img align="top" width="59%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact&bg_color=282A36&title_color=fff&text_color=fff&hide_border=true" class="no-padding"/>
   <img align="bottom" width="39%" height="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical&bg_color=282A3600&title_color=fff&text_color=fff&hide_border=true" class="no-padding"/>
 </div>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical&bg_color=282A3600&title_color=fff&text_color=fff&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical&bg_color=282A3600&title_color=000&text_color=000&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical" />
+</picture>
+
   
 <br>
 
