@@ -29,7 +29,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          color_snake: 'blue'
+          snake_color: 'blue'
           
       # dist/ocean.gif?color_snake=purple&color_dots=#44475A,#6272a4,#8be9fd,#bd93f9,#ff79c6
 
