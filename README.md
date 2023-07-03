@@ -112,10 +112,43 @@
 
 ## ⭐ Favorite repositories
 <div align="center">
-  
-  [![PI1 Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A36&title_color=61DDFD&border_color=BD93F9&text_color=fff&icon_color=fff&repo=ProjetoIntegrador1)](https://github.com/MatheusLTrindade/ProjetoIntegrador1)
-  [![PI2 Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A36&title_color=61DDFD&border_color=BD93F9&text_color=fff&icon_color=fff&repo=ProjetoIntegrador2)](https://github.com/MatheusLTrindade/ProjetoIntegrador2)
-  [![PI3 Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A36&title_color=61DDFD&border_color=BD93F9&text_color=fff&icon_color=fff&repo=ProjetoIntegrador3)](https://github.com/MatheusLTrindade/ProjetoIntegrador3)
+
+<!--   Projeto Integrador 1 -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=fff&icon_color=fff&repo=ProjetoIntegrador1"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=000&icon_color=000&repo=ProjetoIntegrador1"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade" />
+  </picture>
+<!--   Projeto Integrador 2 -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=fff&icon_color=fff&repo=ProjetoIntegrador2"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=000&icon_color=000&repo=ProjetoIntegrador2"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade" />
+  </picture>
+<!--   Projeto Integrador 3 -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=fff&icon_color=fff&repo=ProjetoIntegrador3"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=000&icon_color=000&repo=ProjetoIntegrador3"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade" />
+  </picture>
 
 </div>
 
@@ -133,6 +166,8 @@
 
 <div align="center">
   <picture>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/output/ocean.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/output/snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/output/snake.svg">
   </picture>
 </div>
