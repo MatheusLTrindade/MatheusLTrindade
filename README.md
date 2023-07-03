@@ -80,7 +80,7 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical&bg_color=282A3600&title_color=000&text_color=000&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="bottom" width="39%" height="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical" />
+    <img align="top" width="39%" height="310px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical" />
   </picture>
 </div>
 
