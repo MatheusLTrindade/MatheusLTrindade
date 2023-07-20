@@ -1,4 +1,4 @@
-<img align="right" height="570em" width="330em" src="https://raw.githubusercontent.com/gist/MatheusLTrindade/fdb1acded15c40f708b58d3c43f4c5b1/raw/b86c96ca4960200f11519c697b23a918bbdfab2b/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MatheusLTrindade/fdb1acded15c40f708b58d3c43f4c5b1/raw/b86c96ca4960200f11519c697b23a918bbdfab2b/githubcard.svg"/>
 <h1 align="left">Hi! I'm Matheus Trindade</h1>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MatheusLTrindade&color=76B900&style=for-the-badge" alt="Profile views"/>
@@ -26,27 +26,6 @@
 | <sub><sup>Office 365</sup></sub>   | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg/512px-Microsoft_Office_SharePoint_%282019%E2%80%93present%29.svg.png?20190925170659" width=25 height=25 /> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" width=25 height=25 /> | <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Apps-Colored.svg" width=25 height=25 /> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Automate-Colored.svg" width=25 height=25 /> |
 | <sub><sup>Softwares</sup></sub>    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width=25 height=25 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width=25 height=25 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width=25 height=25 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width=25 height=25 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width=25 height=25 /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width=25 height=25 /> |
 
-<!--<h2>🌱 I’m currently learning</h2>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=25 height=25 /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=25 height=25 /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=25 height=25 /></code>
-<code><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Apps-Colored.svg" width=25 height=25 /></code>
-<code><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Automate-Colored.svg" width=25 height=25 /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width=25 height=25 /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=25 height=25 /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width=25 height=25 /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=25 height=25 /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=25 height=25 /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=25 height=25 /></code>-->
-
-
-## 💻 My computer specs  
-  ![Model](https://img.shields.io/badge/ACER-Aspire_5-80c242?style=for-the-badge&logo=acer&logoColor=white)
-  ![Processor](https://img.shields.io/badge/Intel-Core_i7_10th-0078DC?style=for-the-badge&logo=intel&logoColor=white)
-  ![VideoCard](https://img.shields.io/badge/NVIDIA-GeForce_MX250-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-  ![Windows](https://img.shields.io/badge/Windows-11_Pro-0079D6?style=for-the-badge&logo=windows&logoColor=white)
-
-<br>
 
 ## ⚙️ GitHub Analytics
 
@@ -100,7 +79,7 @@
     <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical" />
   </picture>
 </div>
-  
+
 
 ## ⭐ Favorite repositories
 <div align="center">
@@ -143,6 +122,18 @@
   </picture>
 
 </div>
+  
+
+## 💻 My computer specs  
+<div align="center">
+  
+  ![Model](https://img.shields.io/badge/ACER-Aspire_5-80c242?style=for-the-badge&logo=acer&logoColor=white)
+  ![Processor](https://img.shields.io/badge/Intel-Core_i7_10th-0078DC?style=for-the-badge&logo=intel&logoColor=white)
+  ![VideoCard](https://img.shields.io/badge/NVIDIA-GeForce_MX250-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-11_Pro-0079D6?style=for-the-badge&logo=windows&logoColor=white)
+
+</div>
+
 
 ## 📱 Social Links
 <div align="center">
