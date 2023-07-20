@@ -47,12 +47,12 @@
 ## 🌱 I’m currently learning
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width=35 height=35 /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width=35 height=35 /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width=35 height=35 /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=35 height=35 /></code>
   <code><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Apps-Colored.svg" width=35 height=35 /></code>
   <code><img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-Automate-Colored.svg" width=35 height=35 /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width=35 height=35 /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width=35 height=35 /></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width=35 height=35 /></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width=35 height=35 /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width=35 height=35 /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=35 height=35 /></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=35 height=35 /></code>
