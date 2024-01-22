@@ -120,6 +120,18 @@
     />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade" />
   </picture>
+<!--   Projeto Integrador 4 -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=fff&icon_color=fff&repo=ProjetoIntegrador4"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=000&icon_color=000&repo=ProjetoIntegrador4"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade" />
+  </picture>
 
 </div>
   
