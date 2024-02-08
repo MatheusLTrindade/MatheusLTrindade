@@ -6,7 +6,7 @@
 
 - 🔥 Development intern
 
-- 🔭 I am currently working on [Bradesco Seguros](https://www.bradescoseguros.com.br/)
+- 🔭 I am currently working on [AJD Tecnologia](https://www.ajdesenvolvimento.com.br/)
 
 - 🎓 Systems Analysis and Development student on [SENAC](https://www.sp.senac.br/)
 
