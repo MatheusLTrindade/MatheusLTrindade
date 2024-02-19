@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=MatheusLTrindade&color=76B900&style=for-the-badge" alt="Profile views"/>
 </p>
 
-- 🔥 Development intern
+- 🔥 Full Stack Developer
 
 - 🔭 I am currently working on [AJD Tecnologia](https://www.ajdesenvolvimento.com.br/)
 
