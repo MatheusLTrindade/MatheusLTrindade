@@ -57,17 +57,17 @@
 <!--   Wakatime -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact&bg_color=282A3600&title_color=fff&text_color=fff&hide_border=true&langs_count=24"
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact&bg_color=282A3600&title_color=fff&text_color=fff&hide_border=true&langs_count=10"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact&bg_color=282A3600&title_color=000&text_color=000&hide_border=true&langs_count=24"
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact&bg_color=282A3600&title_color=000&text_color=000&hide_border=true&langs_count=10"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="top" width="59%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact" />
   </picture>
 <!--   Donut -->
-  <picture>
+<!--   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical&bg_color=282A3600&title_color=fff&text_color=fff&hide_border=true"
       media="(prefers-color-scheme: dark)"
@@ -77,7 +77,7 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical" />
-  </picture>
+  </picture> -->
 </div>
 
 
