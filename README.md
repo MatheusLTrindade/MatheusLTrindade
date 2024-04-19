@@ -10,7 +10,7 @@
 
 - 🎓 Systems Analysis and Development student on [SENAC](https://www.sp.senac.br/)
 
-- 💬 Ask me about **JavaScript, Python, C#, HTML, CSS, SQL, BI**
+- 💬 Ask me about **TypeScript, Python, C#, HTML, CSS, SQL**
 
 - ⚡ Fun fact **Gearhead 🏎️ 🏁**
 
@@ -67,17 +67,17 @@
     <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact" />
   </picture>
 <!--   Donut -->
-<!--   <picture>
+  <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical&bg_color=282A3600&title_color=fff&text_color=fff&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut&bg_color=282A3600&title_color=fff&text_color=fff&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical&bg_color=282A3600&title_color=000&text_color=000&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut&bg_color=282A3600&title_color=000&text_color=000&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical" />
-  </picture> -->
+    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical" />
+  </picture>
 </div>
 
 
