@@ -10,7 +10,7 @@
 
 - 🎓 Systems Analysis and Development student on [SENAC](https://www.sp.senac.br/)
 
-- 💬 Ask me about **TypeScript, Python, C#, HTML, CSS, SQL**
+- 💬 Ask me about **TypeScript, JavaScript, Python, C#, SQL**
 
 - ⚡ Fun fact **Gearhead 🏎️ 🏁**
 
