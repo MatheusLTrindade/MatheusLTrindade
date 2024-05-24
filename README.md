@@ -1,4 +1,4 @@
-<img align="right" height="580em" src="https://gist.githubusercontent.com/MatheusLTrindade/fdb1acded15c40f708b58d3c43f4c5b1/raw/15c04f0561eb3ef5f78bdeedc049e5128b01b401/githubcard.svg"/>
+<img align="right" height="570em" src="https://gist.githubusercontent.com/MatheusLTrindade/fdb1acded15c40f708b58d3c43f4c5b1/raw/15c04f0561eb3ef5f78bdeedc049e5128b01b401/githubcard.svg"/>
 <h1 align="left">Hi! I'm Matheus Trindade</h1>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=MatheusLTrindade&color=76B900&style=for-the-badge" alt="Profile views"/>
