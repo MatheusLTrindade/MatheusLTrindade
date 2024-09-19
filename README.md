@@ -35,14 +35,14 @@
 <!--   Analytics 1 -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=MatheusLTrindade&show_icons=true&bg_color=282A3600&title_color=fff&text_color=fff&icon_color=31E1F7&hide_border=true&ring_color=25D366&count_private=true"
+      srcset="https://trindade-github-readme-stats.vercel.app/api?username=MatheusLTrindade&show_icons=true&bg_color=282A3600&title_color=fff&text_color=fff&icon_color=31E1F7&hide_border=true&ring_color=25D366&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=MatheusLTrindade&show_icons=true&bg_color=282A3600&title_color=000&text_color=000&icon_color=31E1F7&hide_border=true&ring_color=25D366&count_private=true"
+      srcset="https://trindade-github-readme-stats.vercel.app/api?username=MatheusLTrindade&show_icons=true&bg_color=282A3600&title_color=000&text_color=000&icon_color=31E1F7&hide_border=true&ring_color=25D366&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MatheusLTrindade" />
+    <img width="49%" src="https://trindade-github-readme-stats.vercel.app/api?username=MatheusLTrindade" />
   </picture>
 <!--   Analytics 2 -->
   <picture>
@@ -59,26 +59,26 @@
 <!--   Wakatime -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact&bg_color=282A3600&title_color=fff&text_color=fff&hide_border=true&langs_count=10"
+      srcset="https://trindade-github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact&bg_color=282A3600&title_color=fff&text_color=fff&hide_border=true&langs_count=10&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact&bg_color=282A3600&title_color=000&text_color=000&hide_border=true&langs_count=10"
+      srcset="https://trindade-github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact&bg_color=282A3600&title_color=000&text_color=000&hide_border=true&langs_count=10&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact" />
+    <img align="top" src="https://trindade-github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact" />
   </picture>
 <!--   Donut -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut&bg_color=282A3600&title_color=fff&text_color=fff&hide_border=true&count_private=true"
+      srcset="https://trindade-github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut&bg_color=282A3600&title_color=fff&text_color=fff&hide_border=true&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut&bg_color=282A3600&title_color=000&text_color=000&hide_border=true&count_private=true"
+      srcset="https://trindade-github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut&bg_color=282A3600&title_color=000&text_color=000&hide_border=true&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical" />
+    <img width="35%" src="https://trindade-github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical" />
   </picture>
 </div>
 
@@ -89,50 +89,50 @@
 <!--   Projeto Integrador 1 -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=fff&icon_color=fff&repo=ProjetoIntegrador1"
+      srcset="https://trindade-github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=fff&icon_color=fff&repo=ProjetoIntegrador1"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=000&icon_color=000&repo=ProjetoIntegrador1"
+      srcset="https://trindade-github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=000&icon_color=000&repo=ProjetoIntegrador1"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade" />
+    <img src="https://trindade-github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade" />
   </picture>
 <!--   Projeto Integrador 2 -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=fff&icon_color=fff&repo=ProjetoIntegrador2"
+      srcset="https://trindade-github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=fff&icon_color=fff&repo=ProjetoIntegrador2"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=000&icon_color=000&repo=ProjetoIntegrador2"
+      srcset="https://trindade-github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=000&icon_color=000&repo=ProjetoIntegrador2"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade" />
+    <img src="https://trindade-github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade" />
   </picture>
 <!--   Projeto Integrador 3 -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=fff&icon_color=fff&repo=ProjetoIntegrador3"
+      srcset="https://trindade-github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=fff&icon_color=fff&repo=ProjetoIntegrador3"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=000&icon_color=000&repo=ProjetoIntegrador3"
+      srcset="https://trindade-github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=000&icon_color=000&repo=ProjetoIntegrador3"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade" />
+    <img src="https://trindade-github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade" />
   </picture>
 <!--   Projeto Integrador 4 -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=fff&icon_color=fff&repo=ProjetoIntegrador4"
+      srcset="https://trindade-github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=fff&icon_color=fff&repo=ProjetoIntegrador4"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=000&icon_color=000&repo=ProjetoIntegrador4"
+      srcset="https://trindade-github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade&bg_color=282A3600&title_color=61DDFD&border_color=BD93F9&text_color=000&icon_color=000&repo=ProjetoIntegrador4"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade" />
+    <img src="https://trindade-github-readme-stats.vercel.app/api/pin/?username=MatheusLTrindade" />
   </picture>
 
 </div>
