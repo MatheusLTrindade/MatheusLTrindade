@@ -71,11 +71,11 @@
 <!--   Donut -->
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut&bg_color=282A3600&title_color=fff&text_color=fff&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut&bg_color=282A3600&title_color=fff&text_color=fff&hide_border=true&count_private=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut&bg_color=282A3600&title_color=000&text_color=000&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut&bg_color=282A3600&title_color=000&text_color=000&hide_border=true&count_private=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical" />
