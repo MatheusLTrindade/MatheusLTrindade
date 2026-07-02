@@ -97,11 +97,11 @@
 <div align="center">
 
   [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusLTrindade)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusltrindade)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matheusltrindade)
   [![WebSite](https://img.shields.io/badge/WebSite-00ADB5?style=for-the-badge&logo=safari&logoColor=white)](https://matheus-trindade.web.app/)
   [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511957103895)
   [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:matheus.lopes.trindade@hotmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theteu_lt) 
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/theteu_lt) 
 
 </div>
 
@@ -109,6 +109,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/output/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/output/snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/snake-output/snake.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/output/snake.svg">
   </picture>
 </div>
