@@ -79,6 +79,14 @@
     />
     <img width="35%" src="https://trindade-github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical" />
   </picture>
+  <!-- Trophy -->
+  <picture>
+    <img src="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  </picture>
+  <!-- Activity -->
+  <picture>
+    <img src="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/activity-graph-output/activity-graph.svg?radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  </picture>
 </div>
   
 
