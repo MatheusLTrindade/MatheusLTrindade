@@ -81,11 +81,11 @@
   </picture>
   <!-- Trophy -->
   <picture>
-    <img src="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" />
+    <img src="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/trophy-output/trophy.svg" height="150" alt="trophy graph" />
   </picture>
   <!-- Activity -->
   <picture>
-    <img src="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/activity-graph-output/activity-graph.svg?radius=16&area=true&order=5&bg_color=transparent&hide_border=true" height="300" alt="activity-graph graph" />
+    <img src="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph" />
   </picture>
 </div>
   
