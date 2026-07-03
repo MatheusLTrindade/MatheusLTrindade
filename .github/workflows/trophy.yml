@@ -18,54 +18,21 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate trophy dark
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: ${{ github.repository_owner }}
-          file: dist/trophy-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          theme: dracula
-          max-cols: -1
-          max-rows: 1
-          margin-width: 8
-          margin-height: 8
-          no-background: true
-          no-frame: true
-
-      - name: Align trophy dark colors with analytics cards
+      - name: Generate trophy SVG files
         run: |
-          sed -i 's/#f8f8f2/#FFFFFF/g' dist/trophy-dark.svg
-          sed -i 's/#50fa7b/#25D366/g' dist/trophy-dark.svg
-          sed -i 's/#8be9fd/#31E1F7/g' dist/trophy-dark.svg
-          sed -i 's/#ff79c6/#FF79C6/g' dist/trophy-dark.svg
-          sed -i 's/#bd93f9/#BD93F9/g' dist/trophy-dark.svg
-          sed -i 's/#6272a4/#BD93F9/g' dist/trophy-dark.svg
+          set -euo pipefail
 
-      - name: Generate trophy light
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
-        with:
-          username: ${{ github.repository_owner }}
-          file: dist/trophy-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          theme: dracula
-          max-cols: -1
-          max-rows: 1
-          margin-width: 8
-          margin-height: 8
-          no-background: true
-          no-frame: true
+          mkdir -p dist
 
-      - name: Align trophy light colors with analytics cards
-        run: |
-          sed -i 's/#f8f8f2/#000000/g' dist/trophy-light.svg
-          sed -i 's/#50fa7b/#25D366/g' dist/trophy-light.svg
-          sed -i 's/#8be9fd/#31E1F7/g' dist/trophy-light.svg
-          sed -i 's/#ff79c6/#FF79C6/g' dist/trophy-light.svg
-          sed -i 's/#bd93f9/#BD93F9/g' dist/trophy-light.svg
-          sed -i 's/#6272a4/#BD93F9/g' dist/trophy-light.svg
+          curl --fail --location --retry 3 \
+            "https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" \
+            --output dist/trophy-dark.svg
 
-      - name: Set default trophy
-        run: cp dist/trophy-dark.svg dist/trophy.svg
+          curl --fail --location --retry 3 \
+            "https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&theme=flat&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" \
+            --output dist/trophy-light.svg
+
+          cp dist/trophy-dark.svg dist/trophy.svg
 
       - name: Push trophy SVG files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
