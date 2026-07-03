@@ -10,6 +10,8 @@
 
 - 🎓 Graduated in Systems Analysis and Development at [SENAC](https://www.sp.senac.br/)
 
+- 🧠 Postgraduate specialization in Web Development from [SENAC](https://www.sp.senac.br/)
+
 - 💬 Ask me about **TypeScript, JavaScript, Python, C#, SQL**
 
 - ⚡ Fun fact **Gearhead 🏎️ 🏁**
