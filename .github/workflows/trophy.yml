@@ -18,11 +18,11 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate trophy.svg
+      - name: Generate trophy dark
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
-          file: dist/trophy.svg
+          file: dist/trophy-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: dracula
           max-cols: -1
@@ -32,16 +32,42 @@ jobs:
           no-background: true
           no-frame: true
 
-      - name: Align trophy colors with analytics cards
+      - name: Align trophy dark colors with analytics cards
         run: |
-          sed -i 's/#f8f8f2/#FFFFFF/g' dist/trophy.svg
-          sed -i 's/#50fa7b/#25D366/g' dist/trophy.svg
-          sed -i 's/#8be9fd/#31E1F7/g' dist/trophy.svg
-          sed -i 's/#ff79c6/#FF79C6/g' dist/trophy.svg
-          sed -i 's/#bd93f9/#BD93F9/g' dist/trophy.svg
-          sed -i 's/#6272a4/#BD93F9/g' dist/trophy.svg
+          sed -i 's/#f8f8f2/#FFFFFF/g' dist/trophy-dark.svg
+          sed -i 's/#50fa7b/#25D366/g' dist/trophy-dark.svg
+          sed -i 's/#8be9fd/#31E1F7/g' dist/trophy-dark.svg
+          sed -i 's/#ff79c6/#FF79C6/g' dist/trophy-dark.svg
+          sed -i 's/#bd93f9/#BD93F9/g' dist/trophy-dark.svg
+          sed -i 's/#6272a4/#BD93F9/g' dist/trophy-dark.svg
 
-      - name: push trophy.svg to the output branch
+      - name: Generate trophy light
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          file: dist/trophy-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: dracula
+          max-cols: -1
+          max-rows: 1
+          margin-width: 8
+          margin-height: 8
+          no-background: true
+          no-frame: true
+
+      - name: Align trophy light colors with analytics cards
+        run: |
+          sed -i 's/#f8f8f2/#000000/g' dist/trophy-light.svg
+          sed -i 's/#50fa7b/#25D366/g' dist/trophy-light.svg
+          sed -i 's/#8be9fd/#31E1F7/g' dist/trophy-light.svg
+          sed -i 's/#ff79c6/#FF79C6/g' dist/trophy-light.svg
+          sed -i 's/#bd93f9/#BD93F9/g' dist/trophy-light.svg
+          sed -i 's/#6272a4/#BD93F9/g' dist/trophy-light.svg
+
+      - name: Set default trophy
+        run: cp dist/trophy-dark.svg dist/trophy.svg
+
+      - name: Push trophy SVG files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: trophy-output
