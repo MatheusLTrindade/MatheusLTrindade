@@ -19,15 +19,26 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Generate activity graph
+      - name: Generate activity graph dark
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
           options: radius=16&theme=dracula&area=true&bg_color=282A3600&color=FFFFFF&title_color=FFFFFF&line=FF79C6&point=31E1F7&area_color=BD93F9&hide_border=true
-          output_path: dist/activity-graph.svg
+          output_path: dist/activity-graph-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push activity-graph.svg to the output branch
+      - name: Generate activity graph light
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: radius=16&theme=dracula&area=true&bg_color=282A3600&color=000000&title_color=000000&line=FF79C6&point=31E1F7&area_color=BD93F9&hide_border=true
+          output_path: dist/activity-graph-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set default activity graph
+        run: cp dist/activity-graph-dark.svg dist/activity-graph.svg
+
+      - name: Push activity graph SVG files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: activity-graph-output
