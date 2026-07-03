@@ -110,7 +110,7 @@
 <div align="center">
   
   ![Model](https://img.shields.io/badge/DELL-G15-0063B8?style=for-the-badge&logo=dell&logoColor=white)
-  ![Processor](https://img.shields.io/badge/Intel-Core_i7_13th-0078DC?style=for-the-badge&logo=intel)
+  ![Processor](https://img.shields.io/badge/Intel-Core_i7_13th-0078DC?style=for-the-badge&logo=intel&logoColor=white)
   ![VideoCard](https://img.shields.io/badge/NVIDIA-GeForce_RTX_4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-11_Pro-0079D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -123,7 +123,7 @@
   [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusLTrindade)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matheusltrindade)
   [![WebSite](https://img.shields.io/badge/WebSite-00ADB5?style=for-the-badge&logo=safari&logoColor=white)](https://matheus-trindade.web.app/)
-  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/5511957103895)
+  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511957103895)
   [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:matheus.lopes.trindade@hotmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/theteu_lt) 
 
