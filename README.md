@@ -82,14 +82,14 @@
   <!-- Trophy -->
   <picture>
     <source
-      srcset="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/trophy-output/trophy-dark.svg"
+      srcset="https://github-profile-trophy.vercel.app/?username=MatheusLTrindade&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/trophy-output/trophy-light.svg"
+      srcset="https://github-profile-trophy.vercel.app/?username=MatheusLTrindade&theme=flat&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/trophy-output/trophy-dark.svg" height="150" alt="trophy graph" />
+    <img src="https://github-profile-trophy.vercel.app/?username=MatheusLTrindade&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="150" alt="trophy graph" />
   </picture>
   <!-- Activity -->
   <picture>
