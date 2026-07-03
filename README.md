@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=MatheusLTrindade&color=76B900&style=for-the-badge" alt="Profile views"/>
 </p>
 
-- 🔥 Senior Full Stack Developer
+- 🔥 Full Stack Specialist
 
 - 🔭 I am currently working on [Torra](https://www.lojastorra.com.br/)
 
