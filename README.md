@@ -34,50 +34,50 @@
 <!--   Analytics 1 -->
   <picture>
     <source
-      srcset="https://trindade-github-readme-stats.vercel.app/api?username=MatheusLTrindade&show_icons=true&bg_color=282A3600&title_color=fff&text_color=fff&icon_color=31E1F7&hide_border=true&ring_color=25D366&count_private=true"
+      srcset="https://trindade-github-readme-stats.vercel.app/api?username=MatheusLTrindade&show_icons=true&bg_color=282A3600&title_color=fff&text_color=fff&icon_color=31E1F7&hide_border=true&ring_color=25D366&include_all_commits=true&cache_seconds=1800&v=20260703"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://trindade-github-readme-stats.vercel.app/api?username=MatheusLTrindade&show_icons=true&bg_color=282A3600&title_color=000&text_color=000&icon_color=31E1F7&hide_border=true&ring_color=25D366&count_private=true"
+      srcset="https://trindade-github-readme-stats.vercel.app/api?username=MatheusLTrindade&show_icons=true&bg_color=282A3600&title_color=000&text_color=000&icon_color=31E1F7&hide_border=true&ring_color=25D366&include_all_commits=true&cache_seconds=1800&v=20260703"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="49%" src="https://trindade-github-readme-stats.vercel.app/api?username=MatheusLTrindade" />
+    <img width="49%" src="https://trindade-github-readme-stats.vercel.app/api?username=MatheusLTrindade&include_all_commits=true&cache_seconds=1800&v=20260703" />
   </picture>
 <!--   Analytics 2 -->
   <picture>
     <source
-      srcset="https://streak-stats.demolab.com?user=MatheusLTrindade&hide_border=true&background=282A3600&stroke=BD93F9&ring=25D366&fire=25D366&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=BD93F981"
+      srcset="https://streak-stats.demolab.com?user=MatheusLTrindade&hide_border=true&background=282A3600&stroke=BD93F9&ring=25D366&fire=25D366&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=BD93F981&v=20260703"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://streak-stats.demolab.com?user=MatheusLTrindade&hide_border=true&background=282A3600&stroke=BD93F9&ring=25D366&fire=25D366&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=BD93F981"
+      srcset="https://streak-stats.demolab.com?user=MatheusLTrindade&hide_border=true&background=282A3600&stroke=BD93F9&ring=25D366&fire=25D366&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=BD93F981&v=20260703"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="49%" src="https://streak-stats.demolab.com?user=MatheusLTrindade" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=MatheusLTrindade&v=20260703" />
   </picture>
 <!--   Wakatime -->
   <picture>
     <source
-      srcset="https://trindade-github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact&bg_color=282A3600&title_color=fff&text_color=fff&hide_border=true&langs_count=10&count_private=true"
+      srcset="https://trindade-github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact&bg_color=282A3600&title_color=fff&text_color=fff&hide_border=true&langs_count=10&cache_seconds=1800&v=20260703"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://trindade-github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact&bg_color=282A3600&title_color=000&text_color=000&hide_border=true&langs_count=10&count_private=true"
+      srcset="https://trindade-github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact&bg_color=282A3600&title_color=000&text_color=000&hide_border=true&langs_count=10&cache_seconds=1800&v=20260703"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="top" src="https://trindade-github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact" />
+    <img align="top" src="https://trindade-github-readme-stats.vercel.app/api/wakatime?username=MatheusLTrindade&layout=compact&cache_seconds=1800&v=20260703" />
   </picture>
 <!--   Donut -->
   <picture>
     <source
-      srcset="https://trindade-github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut&bg_color=282A3600&title_color=fff&text_color=fff&hide_border=true&count_private=true"
+      srcset="https://trindade-github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut&bg_color=282A3600&title_color=fff&text_color=fff&hide_border=true&cache_seconds=1800&v=20260703"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://trindade-github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut&bg_color=282A3600&title_color=000&text_color=000&hide_border=true&count_private=true"
+      srcset="https://trindade-github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut&bg_color=282A3600&title_color=000&text_color=000&hide_border=true&cache_seconds=1800&v=20260703"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="35%" src="https://trindade-github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical" />
+    <img width="35%" src="https://trindade-github-readme-stats.vercel.app/api/top-langs/?username=MatheusLTrindade&layout=donut-vertical&cache_seconds=1800&v=20260703" />
   </picture>
   <!-- Trophy -->
   <img src="https://raw.githubusercontent.com/MatheusLTrindade/MatheusLTrindade/trophy-output/trophy.svg" height="150" alt="trophy graph" />
